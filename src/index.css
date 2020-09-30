@@ -72,6 +72,11 @@ h1 {
 
 h2 {
   font-size: 2rem;
+ 
+}
+
+h2,nav{
+  display:inline-block;
 }
 
 h3 {
